@@ -10,3 +10,13 @@
 в названии приложения > app > res > layout > activityMainXaml
 
 выбрать split![image](https://github.com/itkek33/5semestr/assets/113089505/f6469206-e74c-42e7-bb6f-939ca8e306aa)
+![image](https://github.com/itkek33/5semestr/assets/113089505/ef91859e-f7f7-46ab-b259-422683f7e985)
+
+цель:
+макет перенести в андроид студио или в аналог
+
+бекенд:
+1. переключение между сценами 
+2. анимация(проигрование видио)
+3. api
+4. java cotlin c# python c++
