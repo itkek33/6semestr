@@ -1,1 +1,1 @@
-Колаб https://colab.research.google.com/drive/1eZtUYWThxpU0dJtQ3R4QRjZWokWErUgN?usp=sharing
+Колаб https://colab.research.google.com/drive/1eZtUYWThxpU0dJtQ3R4QRjZWokWErUgN?usp=sharing#scrollTo=wpkbRChuEPqC
