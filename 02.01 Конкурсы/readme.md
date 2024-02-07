@@ -7,3 +7,4 @@
 ![image](https://github.com/itkek33/6semestr/assets/113089505/3de8ede2-b581-49a5-bcbb-aae34acf86e9)
 ![image](https://github.com/itkek33/6semestr/assets/113089505/6f63bed3-dacb-4cab-804d-bf11ceddeeb9)
 ![image](https://github.com/itkek33/6semestr/assets/113089505/7470689b-12ba-4652-b751-45f678bfe545)
+![Uploading image.png…]()
