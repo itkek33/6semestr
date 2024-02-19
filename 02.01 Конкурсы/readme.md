@@ -1,3 +1,5 @@
+![image](https://github.com/itkek33/6semestr/assets/113089505/f3b5f0ef-14ed-4b44-b82c-e8e2bf73e176)
+
 ссылка : https://integraciya.org/konkursy/natsionalnoe-dostoyanie-rossii/ тема : - информационные технологии; ( название темы, мир без интернета) с Андреем Поповым
 
 сертификат: https://study-school.action.group/certificateview/c3476911-d76d-48d8-89ff-bbd7fd1accca
