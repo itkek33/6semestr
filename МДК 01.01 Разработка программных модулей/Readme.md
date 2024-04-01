@@ -25,3 +25,6 @@ https://docs.google.com/document/d/115Szp58urxoUC6UY1NoO21onZmruz1CCz3IMbCwzgA8/
 анимация(проигрование видио)
 api
 java cotlin c# python c++
+
+
+Figma: https://www.figma.com/file/enl7HukB9lkjdPMzhWakKf/Untitled?type=design&node-id=0-1&mode=design&t=deu0Eo9nZRstBizQ-0
