@@ -11,3 +11,4 @@
 ![image](https://github.com/itkek33/6semestr/assets/113089505/7470689b-12ba-4652-b751-45f678bfe545)
 ![image](https://github.com/itkek33/6semestr/assets/113089505/413cd2d0-7b70-4cc2-9fb7-40b8735c34f4)
 
+https://challenge.braim.org/certificates/3b15602c-8710-4f53-87c1-0b51affb1ad2
