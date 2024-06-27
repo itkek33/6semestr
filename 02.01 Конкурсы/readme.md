@@ -12,3 +12,6 @@
 ![image](https://github.com/itkek33/6semestr/assets/113089505/413cd2d0-7b70-4cc2-9fb7-40b8735c34f4)
 
 https://challenge.braim.org/certificates/3b15602c-8710-4f53-87c1-0b51affb1ad2
+
+ред ос 
+![image](https://github.com/itkek33/6semestr/assets/113089505/9c03f340-7692-483f-9d9d-c280b0ca31cc)
